@@ -1,1 +1,1 @@
-# programming2_pyspark_wineprediction
+The intent of this programming assignment is to develop and train machine learning model parallelly using Amazon AWS, Apache Spark, Spark MLlib and Docker. We will be using Wine Quality dataset to train our model. We will be using Random Forrest Classifier with Multiclass.
